@@ -1,5 +1,5 @@
 {
-    "name": "Microbit",
+    "name": "Rover//Ranging",
     "description": "",
     "dependencies": {
         "core": "*",
